@@ -1,5 +1,6 @@
 title: Slickmind - The Blog
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Dive into the world of Artificial Intelligence, Robotics and Intelligent transportation systems.
+Find solutions to numerous unanswered questions.
 
 url: "http://slickmind.in"
 enforce_ssl: "slickmind.in"
@@ -23,6 +24,6 @@ navigation:
 social:
    github: nitesh4146
    twitter: nitesh4146
-   email: nitesh4146@gmail.com
+   email: contact@guptanitish.com
 
 google_analytics: "UA-58263416-1"
